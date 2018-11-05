@@ -13,4 +13,7 @@ public interface PetMapper {
     List<Pet> selectAll();
 
     int updateByPrimaryKey(Pet record);
+
+
+
 }

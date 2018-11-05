@@ -9,6 +9,8 @@
 
     <context id="sss" targetRuntime="MyBatis3Simple">
 
+
+
         <commentGenerator>
             <property name="suppressAllComments" value="true" />
         </commentGenerator>

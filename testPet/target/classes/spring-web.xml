@@ -23,4 +23,12 @@
 
     <!--配置上传下载-->
     <bean id="multipartResolver" class="org.springframework.web.multipart.support.StandardServletMultipartResolver" />
+
+    <!--<bean id="messageSource" class="org.springframework.context.support.ReloadableResourceBundleMessageSource">-->
+        <!--<property name="basename" value="classpath:messages" />-->
+        <!--<property name="defaultEncoding" value="GBK" />-->
+    <!--</bean>-->
+
+
+
 </beans>
